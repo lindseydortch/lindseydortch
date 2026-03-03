@@ -1,5 +1,5 @@
 # Lindsey Dortch
-## Precision-Driven Full Stack Software Engineer
+### Precision-Driven Full Stack Software Engineer
 
 ## Introduction
 Ciao, I’m Lindsey 👋 I’m a precision-driven Full Stack Software Engineer who designs and builds scalable web applications with clean architecture at the core. My marketing background gives me a product-focused lens, allowing me to build systems that are technically sound and strategically aligned.

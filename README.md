@@ -1,4 +1,4 @@
-# Lindsey Dortch
+###**Lindsey Dortch**
 ### Precision-Driven Full Stack Software Engineer
 
 ## Introduction

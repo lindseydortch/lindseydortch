@@ -1,64 +1,83 @@
-# **Lindsey Dortch** | Precision-Driven Full Stack Software Engineer
+# Ciao, I'm Lindsey 👋
+### Engineer at the Intersection of Product, Growth & Experience
 
-## Introduction
-Ciao, I’m Lindsey 👋 I’m a precision-driven Full Stack Software Engineer who designs and builds scalable web applications with clean architecture at the core. My marketing background gives me a product-focused lens, allowing me to build systems that are technically sound and strategically aligned.
+> The rare engineer who understands both the code and the customer.
 
-## Technical Toolkit
+I'm a full stack engineer with 5+ years of experience building production-grade systems and client-facing products. I started in marketing, fell in love with coding somewhere along the way, and have spent the last 6 years running a boutique digital creative agency while working corporate engineering roles simultaneously. I build things end to end: strategy, brand, code, launch, growth.
 
-**Core Stack:** React, Next.js, Node.js, TypeScript, PostgreSQL  
-**Frontend:** React, Next.js, Angular  
-**Backend:** Node.js, Express, NestJS, Django  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Other:** Prisma, REST APIs, Git
+---
 
-## Professional Experience
+## What I'm Working With
 
-### Founder & Full Stack Engineer, Alors Creative
-- Designed and developed custom web applications and marketing platforms using React, Next.js, and Node.js
-- Architected scalable frontend structures and backend integrations with a focus on performance and long-term maintainability
-- Translated complex business requirements into clean technical implementations aligned with user and growth goals
+**I speak:** HTML, CSS, SCSS, JavaScript, TypeScript, Python, SQL, GraphQL
 
-### Full Stack Developer, At Home Group Inc.
-- Built and maintained production features across a large-scale ecommerce platform using Salesforces SFRA architecture and Node.js
-- Refactored and improved legacy components to strengthen code quality and maintainability
-- Collaborated with cross-functional teams to deliver features in a high-velocity retail environment
+**I build with:** React, Next.js, Angular, Node.js, Express, NestJS, GatsbyJS, React Native, Tailwind, Styled Components
 
-### Software Engineer, 7-Eleven (7Next)
-- Contributed to full stack feature development for the Store Management Portal and cashierless initiatives
-- Worked with Angular, TypeScript, and NestJS to support scalable retail operations
-- Participated in cross-team collaboration to deliver production-ready solutions
+**I store data in:** PostgreSQL, MongoDB
 
-## What I'm Focused On 
-- Designing scalable web applications end to end
-- Strengthening backend architecture and relational database design
-- Writing clean, maintainable frontend code
-- Continuously improving system performance and clarity
+**I also know:** Git, Figma, Prisma, Mongoose, Sanity.io
 
-## Selected Works
+---
 
-### The Twisted Pearl (Next.js, React)
+## Where I've Been
 
-A modern static marketing site for an event space, designed with a strong emphasis on brand identity and performance.
+**Alors Creative — Founder & Full Stack Engineer | 2020 - Present**
+Boutique digital creative agency delivering end-to-end web platforms combining brand strategy with full stack engineering.
 
-- Built using Next.js with optimized asset delivery and structured component architecture
-- Translated brand strategy into a scalable frontend system with reusable components and clean layout structure
+**At Home — Full Stack Software Developer | 2022 - 2026**
+Large-scale e-commerce engineering for a home decor retailer with 260+ US stores. Ramped up independently, got promoted within a year, left it better than I found it.
 
-### GoinLux Platform (Next.js, Sanity, NestJS, Prisma, PostgreSQL)
+**7-Eleven (7Next) — Full Stack Software Engineer, Contract | 2021 - 2022**
+Built full stack features for the Store Management Portal for 7-Eleven's cashierless store R&D concept using Angular, TypeScript, NestJS, and Prisma.
 
-A full stack villa aggregation and management platform combining listings from six external providers with a small portfolio of directly managed properties.
+**PulteGroup — Marketing Coordinator | 2018 - 2020**
+Where it all started. And where a CMS that kept breaking accidentally changed the entire direction of my career.
 
-- Integrated six third-party APIs and normalized multi-source villa data into a unified relational schema
-- Built backend services to ingest, transform, and reconcile external listings alongside internally created properties
-- Developed a Next.js frontend using Sanity to manage marketing content and brand-driven site structure
-- Implemented full CRUD workflows for managing exclusive villas within the internal API
+---
 
-### eStump (Next.js, Node.js, PostgreSQL)
+## Selected Work
 
-A service-based web platform connecting homeowners with local stump removal contractors.
+### [GoinLux](https://github.com/lindseydortch/goinlux-casestudy) — Luxury Villa Discovery Platform
+*Next.js · Sanity.io · NestJS · TypeScript · Prisma · PostgreSQL*
+Unified 6+ third party APIs into a single backend data layer for a luxury villa concierge service. [Read the case study →](#)
 
-- Built a dynamic pricing system based on stump measurements and deposit-based scheduling
-- Designed scalable backend logic to support contractor matching and payment workflows
-- Focused on clean architecture and maintainable structure for future city expansion
+### [eStump](https://github.com/lindseydortch/estump-casestudy) — Hyperlocal Stump Removal Marketplace
+*Next.js · Node.js · Express · PostgreSQL*
+A three-sided marketplace connecting homeowners with vetted stump removal contractors. Launching mid-2026. [Read the case study →](#)
 
-## How I Build 
-I approach engineering with a systems mindset, focusing on clean architecture, relational database design, and clear separation of concerns. I value maintainable code over shortcuts and prioritize solutions that scale as products evolve.
+### [BrewJobs](https://github.com/lindseydortch/brewjobs-casestudy) — Coffee Shop Brand & Website
+*Next.js · Clover*
+Built the brand from scratch and grew Facebook from 0 to 600 followers in 4 months organically. [Read the case study →](#)
+
+### [The Twisted Pearl](https://github.com/lindseydortch/thetwistedpearl-casestudy) — Microvenue Brand & Website
+*Next.js · Nodemailer*
+Built the brand from scratch with a custom booking request flow. One of my favorite designs I've ever created. [Read the case study →](#)
+
+---
+
+## How I Think About Building
+
+I care about the person on the other side of the screen as much as I care about the code. My marketing background means I'm always thinking about why something is being built, not just how.
+
+You can either sit in shit or do something about it. I tend to do something about it.
+
+---
+
+## Currently
+
+- Building and launching eStump
+- Rebuilding my portfolio site
+- Preparing for a move to Florence, Italy 🇮🇹
+- Open to Product Engineer, Growth Engineer, and UX Engineer roles
+
+---
+
+## Let's Connect
+
+**Portfolio:** [lindseydortch.dev](https://lindseydortch.dev)
+**LinkedIn:** [linkedin.com/in/lindseydortch](https://linkedin.com/in/lindseydortch)
+**Email:** lindseyndortch@gmail.com
+
+---
+
+*Ciao from Dallas, Texas. For now.*

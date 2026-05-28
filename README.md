@@ -76,7 +76,6 @@ You can either sit in shit or do something about it. I tend to do something abou
 
 **Portfolio:** [lindseydortch.dev](https://lindseydortch.dev)
 **LinkedIn:** [linkedin.com/in/lindseydortch](https://linkedin.com/in/lindseydortch)
-**Email:** lindseyndortch@gmail.com
 
 ---
 

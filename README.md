@@ -37,21 +37,21 @@ Where it all started. And where a CMS that kept breaking accidentally changed th
 
 ## Selected Work
 
-### [GoinLux](https://github.com/lindseydortch/goinlux-casestudy) — Luxury Villa Discovery Platform
+### [GoinLux](https://goinlux.com/) — Luxury Villa Discovery Platform
 *Next.js · Sanity.io · NestJS · TypeScript · Prisma · PostgreSQL*
-Unified 6+ third party APIs into a single backend data layer for a luxury villa concierge service. [Read the case study →](#)
+Unified 6+ third party APIs into a single backend data layer for a luxury villa concierge service. [Read the case study →](https://github.com/lindseydortch/goinlux-casestudy)
 
-### [eStump](https://github.com/lindseydortch/estump-casestudy) — Hyperlocal Stump Removal Marketplace
+### [eStump](https://estump.com/) — Hyperlocal Stump Removal Marketplace
 *Next.js · Node.js · Express · PostgreSQL*
-A three-sided marketplace connecting homeowners with vetted stump removal contractors. Launching mid-2026. [Read the case study →](#)
+A three-sided marketplace connecting homeowners with vetted stump removal contractors. Launching mid-2026. [Read the case study →](https://github.com/lindseydortch/estump-casestudy)
 
-### [BrewJobs](https://github.com/lindseydortch/brewjobs-casestudy) — Coffee Shop Brand & Website
+### [BrewJobs](https://brewjobs.coffee/) — Coffee Shop Brand & Website
 *Next.js · Clover*
-Built the brand from scratch and grew Facebook from 0 to 600 followers in 4 months organically. [Read the case study →](#)
+Built the brand from scratch and grew Facebook from 0 to 600 followers in 4 months organically. [Read the case study →](https://github.com/lindseydortch/brewjobs-casestudy)
 
-### [The Twisted Pearl](https://github.com/lindseydortch/thetwistedpearl-casestudy) — Microvenue Brand & Website
+### [The Twisted Pearl](https://thetwistedpearl.com/) — Microvenue Brand & Website
 *Next.js · Nodemailer*
-Built the brand from scratch with a custom booking request flow. One of my favorite designs I've ever created. [Read the case study →](#)
+Built the brand from scratch with a custom booking request flow. One of my favorite designs I've ever created. [Read the case study →](https://github.com/lindseydortch/thetwistedpearl-casestudy)
 
 ---
 
